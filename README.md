@@ -1,4 +1,21 @@
-Hey, I'm Mangalam 👋<br><br>Backend developer focused on building scalable, production-ready systems.<br>I work primarily with **Java + Spring Boot** and the **MERN stack** —<br>designing RESTful APIs, microservices, and secure authentication flows.<br><br>🔧 **Tech I work with:**<br>Java · Spring Boot · Node.js · React · MySQL · MongoDB · Docker · Kafka · AWS · C++ · Python · FastAPI<br><br>🚀 **Things I've shipped:**<br>- Microservices-based Expense Tracker with Kafka event streaming & AI integration<br>- Leave Management System deployed on AWS with CI/CD via Jenkins<br>- AI-powered document assistant using **Spring Boot + Spring AI + Google Gemini**<br>  capable of reading & understanding PDFs, Docs, Audio, and Video<br><br>📚Completed B.Tech in IT May 2026@ D.Y. Patil University (CGPA: 9.42)<br><br>📫 mmangalam1212@gmail.com
+# Hey, I'm Mangalam 👋
+
+I'm a backend developer focused on building scalable, production-ready systems,
+working primarily with Java, Spring Boot, and the MERN stack to design RESTful APIs,
+microservices, and secure authentication flows.
+
+My tech toolkit includes Java, Spring Boot, Node.js, React, MySQL, MongoDB,
+Docker, Kafka, AWS, C++, Python, and FastAPI.
+
+Some things I've built: a microservices-based Expense Tracker with Kafka event
+streaming and AI integration, a Leave Management System deployed on AWS with
+CI/CD via Jenkins, and an AI-powered document assistant built with Spring Boot,
+Spring AI, and Google Gemini that can read and understand PDFs, Docs, Audio, and Video.
+
+I completed my B.Tech in Information Technology from D.Y. Patil University in
+May 2026 with a CGPA of 9.42.
+
+📫 mmangalam1212@gmail.com
 
 
 ## 🌐 Socials:
